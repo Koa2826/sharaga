@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\10f\10f\bin\Debug\10f.exe.config
+C:\Users\user\source\repos\10f\10f\bin\Debug\10f.exe
+C:\Users\user\source\repos\10f\10f\bin\Debug\10f.pdb
+C:\Users\user\source\repos\10f\10f\obj\Debug\10f.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\10f\10f\obj\Debug\_10f.Properties.Resources.resources
+C:\Users\user\source\repos\10f\10f\obj\Debug\10f.csproj.GenerateResource.cache
+C:\Users\user\source\repos\10f\10f\obj\Debug\10f.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\10f\10f\obj\Debug\10f.exe
+C:\Users\user\source\repos\10f\10f\obj\Debug\10f.pdb
+C:\Users\user\source\repos\10f\10f\obj\Debug\_10f.AAAA.resources
