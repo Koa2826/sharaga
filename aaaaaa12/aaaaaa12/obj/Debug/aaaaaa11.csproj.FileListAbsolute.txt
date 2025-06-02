@@ -1,0 +1,30 @@
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.exe.config
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.exe
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.pdb
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.AssemblyReference.cache
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.Properties.Resources.resources
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.GenerateResource.cache
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.CoreCompileInputs.cache
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.exe
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.pdb
+C:\Users\329197-24\source\repos\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.aaaa.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.pdb
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.exe.config
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\bin\Debug\aaaaaa11.pdb
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.aaaaaa.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa11\aaaaaa11\obj\Debug\aaaaaa11.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\bin\Debug\aaaaaa11.exe.config
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\bin\Debug\aaaaaa11.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\bin\Debug\aaaaaa11.pdb
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa12.aaaaaa.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa11\obj\Debug\aaaaaa11.pdb

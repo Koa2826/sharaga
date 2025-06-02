@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\bin\Debug\aaaaaa12.exe.config
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\bin\Debug\aaaaaa12.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\bin\Debug\aaaaaa12.pdb
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.aaaaaa.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa11.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.exe
+C:\Users\user\OneDrive\Рабочий стол\aaaaaa12\aaaaaa12\obj\Debug\aaaaaa12.pdb
