@@ -1,38 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 using System.Windows.Forms;
 
 namespace aaaaaa11
-{
+{ 
     internal class Count
-    {
-        public static int NegativeCount(DataGridView array)
+    { 
+        public static int NegativeCount(int[] array)
         {
             int k = 0;
-            for (int j = 0; j < array.ColumnCount; j++)
+            for (int j = 0; j < array.Length; j++)
             { 
-                if (Convert.ToInt32(array.Rows[0].Cells[j].Value) < 0) k++;
+                if (array[j] < 0) k++;
             }
             return k;
         }
-        public static int PositiveCount(DataGridView array)
+
+        public static int PositiveCount(int[] array)
         {
             int k = 0;
-            for (int j = 0; j < array.ColumnCount; j++)
+            for (int j = 0; j < array.Length; j++)
             {
-                if (Convert.ToInt32(array.Rows[0].Cells[j].Value)> 0) k++;
+                if (array[j] > 0) k++;
             }
             return k;
         }
-        public static void MoreNegative(DataGridView array, DataGridView array2)
+        public static int[] MoreNegative(int[] array)
         {
-            for (int j = 0; j < array.ColumnCount; j++)
+            for (int j = 0; j < array.Length; j++)
             {
-                array2.Rows[0].Cells[j].Value = -Convert.ToInt32(array.Rows[0].Cells[j].Value);
+                array[j] = -array[j];
             }
+            return array;
+        }
+        public static int[] ToArray(DataGridView Array) //создание нового массива
+        {
+            int[] array= new int[Array.ColumnCount];
+            for (int j = 0; j < Array.ColumnCount; j++)
+            {
+                array[j] = Convert.ToInt32(Array.Rows[0].Cells[j].Value);
+            }
+            return array;
         }
     }
 }
