@@ -1,4 +1,5 @@
 using System;
+using System.Windows.Forms;
 
 namespace aaaaaa12
 {
@@ -15,6 +16,15 @@ namespace aaaaaa12
                     else ArrayC[i,j] = 1;
                 }
             }
+        }
+        public static int[] ToArray(DataGridView Array) //создание нового массива
+        {
+            int[] array= new int[Array.ColumnCount];
+            for (int j = 0; j < Array.ColumnCount; j++)
+            {
+                array[j] = Convert.ToInt32(Array.Rows[0].Cells[j].Value);
+            }
+            return array;
         }
     }
 }
