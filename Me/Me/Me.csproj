@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Npgsql" Version="9.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ProductsForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductEditForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductWorkshopsForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="LoginForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="UserOrderForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="OrdersViewForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="StatusUpdateForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="RegistrationForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ProductsViewForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+</Project>
